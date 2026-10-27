@@ -7,7 +7,7 @@ I hold an MBA and spent years in Navy HR as a DoD civilian, where I supported SA
 
 **Certifications and training**
 - Udacity Future AWS Agent Engineer (Oct 2026)
-- AWS AI & ML certificates (TODO Cindy: list exact names, e.g. AWS AI & ML Scholars)
+- AWS AI & ML certificates: AWS AI & ML Scholars Program (Udacity), AWS AI Practitioner Challenge, AWS Machine Learning Foundations, AWS Educate Introduction to Generative AI
 - University of Michigan (Coursera): Introduction to Data Science in Python (Jun 2026); Applied Plotting, Charting & Data Representation in Python (Jun 2026)
 - Lean Six Sigma Black Belt
 
