@@ -16,6 +16,7 @@ I hold an MBA and spent years in Navy HR as a DoD civilian, where I supported SA
 |---|---|---|
 | [Customer Support Chatbot](https://github.com/CindyKelly2025/bedrock-customer-support-chatbot) | Sorts customer messages into bug reports, FAQ questions or other requests; collects complete bug reports and files tickets | Bedrock Flows, AgentCore Gateway, Lambda, DynamoDB |
 | [AI Customer Support Agent](https://github.com/CindyKelly2025/agentcore-ai-support-agent) | A multi-tool agent with memory, knowledge-base search, a code interpreter and a browser | Strands, AgentCore, Bedrock Knowledge Bases |
+| [NovaMart Multi-Agent Support System](https://github.com/CindyKelly2025/novamart-multi-agent-support) | An orchestrator agent routes customer requests to inventory, policy, refund and communication agents; policy answers search three knowledge bases in parallel, with guardrails, memory and X-Ray tracing | Strands, AgentCore Runtime & Memory, Bedrock Guardrails & Knowledge Bases, DynamoDB, CloudWatch |
 | [Air Quality Analysis](https://github.com/CindyKelly2025/partyrock-air-quality-analysis) | Pollutant summaries, correlations and daily trends over 32 days | Amazon PartyRock (Bedrock) |
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/cindy-b-kelly)
